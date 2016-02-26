@@ -7,4 +7,4 @@ import * as index from './index.js';
 var chai = require('chai');
 var should = chai.expect;
 
-console.log(add(2,2));
+console.log(index.add(2,2));
